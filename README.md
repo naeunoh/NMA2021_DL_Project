@@ -1,4 +1,6 @@
-# NMA2021_DL_Project
+# NMA2021 Deep Learning Project
+
+### Title: Building a controller in model-free and model-based RL in two-step task
 
 ### Team Falling Humans : Jaeyoung Jeon, NaEun Oh, Hanbo Xie, Jindu Wang 
 
