@@ -1,4 +1,4 @@
-# NMA2021 Deep Learning Project
+# Neuro Match Academy 2021 Deep Learning Project
 
 ### Title: Building a controller in model-free and model-based RL in two-step task
 
